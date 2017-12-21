@@ -1,5 +1,5 @@
 # Benchmarking
-Implemented benchmarking to 4 main parts of a computer system, CPU, Memory, Disk, and Network. Varied the number of threads and block size to observe whether theses two factors have positive or negative influence, then compared the standard benchmark like Linpack, Stream, IOZone and IPerf and analyzing each performance.
+Implemented benchmarking to 4 main parts of a computer system, CPU, Memory, Disk, and Network. Varying the number of threads and blocksize and analyzing the performance of the different parts with respect to the standartd benchmark tools like Linpack and Stream.
 
 Technology: C language.
 
